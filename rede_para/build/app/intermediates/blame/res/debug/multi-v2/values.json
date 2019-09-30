@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\dieos\\AndroidStudioProjects\\rede_para\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\dieos\\AndroidStudioProjects\\flutterExemplos\\rede_para\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\dieos\\AndroidStudioProjects\\rede_para\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\dieos\\AndroidStudioProjects\\flutterExemplos\\rede_para\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
